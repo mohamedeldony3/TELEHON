@@ -1,1 +1,1 @@
-worker: python3 -m ELPOP
+worker: bash ELPOP
